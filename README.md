@@ -9,9 +9,9 @@
 [![Twitter Follow](https://img.shields.io/twitter/follow/circassia_ai?label=circassia_ai)](https://twitter.com/circassia_ai)-->
 
 #### About me  
-- 🔭 Software Engineer | Aspiring Machine learning engineer
+- 🔭 Software Engineer | Aspiring Machine learning / Deep learning engineer
 - 📡 Facinated by Artificial Intelligence technology
-- 🤓 Explore Machine Learning, Deep Learning & Natural Languange Processing
+- 🤓 Explore Machine Learning, Deep Learning & Natural Languange Processing | [Progress](https://github.com/Akshaykumarcp/data-science)
 - 📫 How to reach me: by email akshai.148@gmail.com
 
 <!--
