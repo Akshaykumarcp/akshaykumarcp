@@ -9,18 +9,16 @@
 [![Twitter Follow](https://img.shields.io/twitter/follow/circassia_ai?label=circassia_ai)](https://twitter.com/circassia_ai)-->
 
 #### About me  
-- 🔭 Software Engineer | Aspiring Machine learning / Deep learning engineer
+- 🔭 Software Engineer | Un-official Machine Learning Engineer
 - 📡 Facinated by Artificial Intelligence technology
 - 🤓 Explore Machine Learning, Deep Learning & Natural Languange Processing | [Progress](https://github.com/Akshaykumarcp/data-science)
 - 📫 How to reach me: by email akshai.148@gmail.com
 
-<!--
-#### My research and interests
-[![](https://img.shields.io/badge/ORCID-informational?style=flat&logo=ORCID&logoColor=white&color=A6CE39)](https://orcid.org/0000-0002-3093-3456)
-[![](https://img.shields.io/badge/Scopus-informational?style=flat&logo=scopus&logoColor=white&color=E9711C)](https://www.scopus.com/authid/detail.uri?authorId=57194618351) 
-[![](https://img.shields.io/badge/Publons-informational?style=flat&logo=Publons&logoColor=white&color=336699)](https://publons.com/researcher/2079516/mukharbek-organokov/) 
-[![](https://img.shields.io/badge/INSPIREhep-informational?style=flat&logo=inspirehep&logoColor=white&color=0c1c29)](https://inspirehep.net/authors/1609916) 
-[![](https://img.shields.io/badge/GoogleScholar-informational?style=flat&logo=Google-Scholar&logoColor=white&color=4285F4)](https://scholar.google.com/citations?user=jYZaDVoAAAAJ&hl=en)-->
+#### My Social Media Spread
+[![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/akshay-kumar-c-p/)
+[![](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@akshai.148) 
+[![](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UC3l8RTE3zBRzUrHbSXpx-qA) 
+[![](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Akshaykumarcp) 
 
 #### My favourite OS & languages 
 ![](https://img.shields.io/badge/Linux-informational?style=flat&logo=linux&logoColor=white&color=FCC624)
@@ -54,8 +52,15 @@
 ![](https://img.shields.io/badge/Mysql-informational?style=flat&logo=MySQL&logoColor=white&color=4479A1)
 ![](https://img.shields.io/badge/MongoDB-informational?style=flat&logo=MongoDB&logoColor=white&color=47A248)
 
+### Github Stats
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=akshaykumarcp&theme=blue)](https://github.com/akshaykumarcp/github-readme-stats)  
-![1](https://github-readme-stats.vercel.app/api/top-langs/?username=akshaykumarcp&theme=blue)
+
+![Most Used Language](https://github-readme-stats.vercel.app/api/top-langs/?username=akshaykumarcp&theme=blue)
+
+![2](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=akshaykumarcp&theme=vue)
+
+### Streak Stats
+![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=akshaykumarcp)
 
 <!--
 **Akshaykumarcp/akshaykumarcp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
