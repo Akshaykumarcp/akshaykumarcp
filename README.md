@@ -76,6 +76,48 @@
 ### Streak Stats
 ![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=akshaykumarcp)
 
+#### Other Project's
+<table>
+  <tr>
+    <td> Project Name </td>
+     <td> Code Link </td>
+     <td> Demo Link </td>
+  </tr>
+  <tr>
+    <td>Cotton Plant Disease Prediction </td>
+    <td><a href="https://github.com/Akshaykumarcp/cotton-plant-disease-prediction" >click here</a></td>
+    <td><a href="https://youtu.be/p8kCMDpUi3Y" >click here</a></td>
+  </tr>
+  
+  <tr>
+    <td>Cotton Plant Disease Prediction </td>
+    <td><a href="https://github.com/Akshaykumarcp/cotton-plant-disease-prediction" >click here</a></td>
+    <td><a href="https://youtu.be/p8kCMDpUi3Y" >click here</a></td>
+  </tr>  
+  
+  <tr>
+    <td>	Quora Duplicate Question Prediction  </td>
+    <td><a href="https://github.com/Akshaykumarcp/quora-duplicate-question-prediction" >click here</a></td>
+    <td><a href="https://youtu.be/H91AFzkzaX4" >click here</a></td>
+  </tr>  
+  
+  <tr>
+    <td>	Car Price Prediction  </td>
+    <td><a href="https://github.com/Akshaykumarcp/CarPricePrediction" >click here</a></td>
+    <td><a href="https://car-price-predictions12.herokuapp.com/" >click here</a></td>
+  </tr>  
+  
+  <tr>
+    <td> Chatbot </td>
+    <td><a href="https://github.com/Akshaykumarcp/cotton-plant-disease-prediction" >click here</a>    
+    </td>
+    <td><a href="https://youtu.be/p8kCMDpUi3Y" >click here</a></td>
+  </tr>
+  
+ </table>
+
+
+
 <!--
 **Akshaykumarcp/akshaykumarcp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
