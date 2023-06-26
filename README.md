@@ -8,10 +8,11 @@
 <!--[![Kaggle Badge](https://img.shields.io/badge/-muhakabartay-white?style=flat&logo=kaggle&logoColor=deepblue&link=https://www.kaggle.com/muhakabartay)](https://www.kaggle.com/muhakabartay)
 [![Twitter Follow](https://img.shields.io/twitter/follow/circassia_ai?label=circassia_ai)](https://twitter.com/circassia_ai)-->
 
-#### About me  
-- 🔭 Machine Learning Engineer
-- 📡 Facinated by Artificial Intelligence technology
-- 🤓 Explore Machine Learning, Deep Learning, Natural Languange Processing & Cloud | [Progress](https://github.com/Akshaykumarcp/data-science)
+#### About me
+- ⚡ [Online portfolio](https://akshaykumarcp.github.io/)
+- 🔭 Machine Learning Engineer.
+- 📡 Facinated by Artificial Intelligence technology.
+- 🤓 Explore Machine Learning, Deep Learning, Natural Languange Processing & Cloud | [Progress](https://github.com/Akshaykumarcp/data-science).
 - 📫 How to reach me: by email akshai.148@gmail.com
 
 #### My Social Media Spread
@@ -75,48 +76,6 @@
 
 ### Streak Stats
 ![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=akshaykumarcp)
-
-#### Other Project's
-<table>
-  <tr>
-    <td> Project Name </td>
-     <td> Code Link </td>
-     <td> Demo Link </td>
-  </tr>
-  <tr>
-    <td>Cotton Plant Disease Prediction </td>
-    <td><a href="https://github.com/Akshaykumarcp/cotton-plant-disease-prediction" >click here</a></td>
-    <td><a href="https://youtu.be/p8kCMDpUi3Y" >click here</a></td>
-  </tr>
-  
-  <tr>
-    <td>Cotton Plant Disease Prediction </td>
-    <td><a href="https://github.com/Akshaykumarcp/cotton-plant-disease-prediction" >click here</a></td>
-    <td><a href="https://youtu.be/p8kCMDpUi3Y" >click here</a></td>
-  </tr>  
-  
-  <tr>
-    <td>	Quora Duplicate Question Prediction  </td>
-    <td><a href="https://github.com/Akshaykumarcp/quora-duplicate-question-prediction" >click here</a></td>
-    <td><a href="https://youtu.be/H91AFzkzaX4" >click here</a></td>
-  </tr>  
-  
-  <tr>
-    <td>	Car Price Prediction  </td>
-    <td><a href="https://github.com/Akshaykumarcp/CarPricePrediction" >click here</a></td>
-    <td><a href="https://car-price-predictions12.herokuapp.com/" >click here</a></td>
-  </tr>  
-  
-  <tr>
-    <td> Chatbot </td>
-    <td><a href="https://github.com/Akshaykumarcp/cotton-plant-disease-prediction" >click here</a>    
-    </td>
-    <td><a href="https://youtu.be/p8kCMDpUi3Y" >click here</a></td>
-  </tr>
-  
- </table>
-
-
 
 <!--
 **Akshaykumarcp/akshaykumarcp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
