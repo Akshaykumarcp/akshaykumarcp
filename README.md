@@ -10,9 +10,9 @@
 
 #### About me
 - ⚡ [Online portfolio](https://akshaykumarcp.github.io/)
-- 🔭 Machine Learning Engineer.
+- 🔭 Work & Fun: Machine Learning Engineer.
 - 📡 Facinated by Artificial Intelligence technology.
-- 🤓 Explore Machine Learning, Deep Learning, Natural Languange Processing & Cloud | [Progress](https://github.com/Akshaykumarcp/data-science).
+- 🤓 Explore Generative AI, Machine Learning, Deep Learning, Natural Languange Processing & Cloud | [Abstract](https://github.com/Akshaykumarcp/data-science).
 - 📫 How to reach me: by email akshai.148@gmail.com
 
 #### My Social Media Spread
@@ -24,11 +24,13 @@
 #### Cloud Certification  
 <table>
   <tr>
-    <td>AWS Cloud Practitioner</td>
-     <td>AI-900 Microsoft Azure AI Fundamentals</td>
-     <td>AI-102 Microsoft Azure AI Engineer Associate</td>
+     <td>AWS ML Specialty</td>
+     <td>AWS Cloud Practitioner</td>
+     <td> MS Azure AI Fundamentals (AI-900) </td>
+     <td> MS Azure AI Engineer Associate (AI-102) </td>
   </tr>
   <tr>
+    <td><img src="https://github.com/Akshaykumarcp/Cloud/blob/main/AWS/MLS-C01%20Machine%20Learning%20Specialty/credly.png" width=120 height=120></td>
     <td><img src="https://github.com/Akshaykumarcp/Cloud/blob/main/AWS/cloud%20practitioner/AWS-Certified_Cloud-Practitioner_512x512.bc006f14f986fa4f3ca238b0b62be458ce1fb5ce.png" width=120 height=120></td>
     <td><img src="https://github.com/Akshaykumarcp/Cloud/blob/main/microsoft/ai-900/microsoft-certified-azure-ai-fundamentals.png" width=120 height=120></td>
     <td><img src="https://github.com/Akshaykumarcp/Cloud/blob/main/microsoft/ai-102/microsoft-certified-azure-ai-engineer-associate.png" width=120 height=120></td>
