@@ -13,7 +13,7 @@
 - 🔭 Work & Fun: Machine Learning Engineer.
 - 📡 Facinated by Artificial Intelligence technology.
 - 🤓 Explore Generative AI, Machine Learning, Deep Learning, Natural Languange Processing & Cloud | [Abstract](https://github.com/Akshaykumarcp/data-science).
-- 📫 How to reach me: by email akshai.148@gmail.com
+- 📫 How to reach me: Email - akshai.148@gmail.com
 
 #### My Social Media Spread
 [![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/akshay-kumar-c-p/)
@@ -37,9 +37,11 @@
   </tr>
  </table>
 
+#### Programming language  
+![](https://img.shields.io/badge/Python-informational?style=flat&logo=python&logoColor=white&color=3776AB)
+
 #### My favourite frameworks   
-![](https://img.shields.io/badge/Keras-informational?style=flat&logo=Keras&logoColor=white&color=D00000)
-![](https://img.shields.io/badge/TensorFlow-informational?style=flat&logo=TensorFlow&logoColor=white&color=FF6F00)
+![](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=flat&logo=PyTorch&logoColor=white)
 
 #### My favourite Python libs
 ![](https://img.shields.io/badge/Pandas-informational?style=flat&logo=pandas&logoColor=white&color=150458)
@@ -51,23 +53,29 @@
 ![](https://img.shields.io/badge/Mysql-informational?style=flat&logo=MySQL&logoColor=white&color=4479A1)
 ![](https://img.shields.io/badge/MongoDB-informational?style=flat&logo=MongoDB&logoColor=white&color=47A248)
 
-#### My favourite tools 
-![](https://img.shields.io/badge/Jupyter-informational?style=flat&logo=jupyter&logoColor=white&color=F37626)
+#### My favourite IDE 
 ![](https://img.shields.io/badge/VSCode-informational?style=flat&logo=visual-studio-code&logoColor=white&color=0078d7)
 ![](https://img.shields.io/badge/PyCharm-informational?style=flat&logo=PyCharm&logoColor=white&color=000000)
 ![](https://img.shields.io/badge/Spyder-informational?style=flat&logo=SpyderIDE&logoColor=white&color=FF0000)
-![](https://img.shields.io/badge/PowerBI-informational?style=flat&logo=PowerBI&logoColor=white&color=F2C811)
-![](https://img.shields.io/badge/Tableau-informational?style=flat&logo=Tableau&logoColor=white&color=E97627)
+
+#### Version Control
 ![](https://img.shields.io/badge/Git-informational?style=flat&logo=Git&logoColor=white&color=F05032)
+
+#### Containerization
 ![](https://img.shields.io/badge/Docker-informational?style=flat&logo=docker&logoColor=white&color=2496ED)
+
+#### My favourite tools 
+![](https://img.shields.io/badge/Jupyter-informational?style=flat&logo=jupyter&logoColor=white&color=F37626)
 ![](https://img.shields.io/badge/Colab-informational?style=flat&logo=google-colab&logoColor=white&color=F4B400)
 ![](https://img.shields.io/badge/AdobePhotoshop-informational?style=flat&logo=AdobePhotoshop&logoColor=white&color=31A8FF)
 
-#### My favourite OS & languages 
+#### My favourite Viz 
+![](https://img.shields.io/badge/PowerBI-informational?style=flat&logo=PowerBI&logoColor=white&color=F2C811)
+![](https://img.shields.io/badge/Tableau-informational?style=flat&logo=Tableau&logoColor=white&color=E97627)
+
+#### My favourite OS 
 ![](https://img.shields.io/badge/Linux-informational?style=flat&logo=linux&logoColor=white&color=FCC624)
 ![](https://img.shields.io/badge/Windows-informational?style=flat&logo=Windows&logoColor=white&color=4EAA25)
-![](https://img.shields.io/badge/Python-informational?style=flat&logo=python&logoColor=white&color=3776AB)
-![](https://img.shields.io/badge/Java-informational?style=flat&logo=Java&logoColor=white&color=9558B2)
 
 ### Github Stats
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=akshaykumarcp&theme=blue)](https://github.com/akshaykumarcp/github-readme-stats)  
