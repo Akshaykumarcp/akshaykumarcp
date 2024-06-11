@@ -24,16 +24,19 @@
 #### Cloud Certification  
 <table>
   <tr>
+    <td>Oracle Generative AI Professional</td>
      <td>AWS ML Specialty</td>
+    <td> MS Azure AI Fundamentals (AI-900) </td>
      <td>AWS Cloud Practitioner</td>
-     <td> MS Azure AI Fundamentals (AI-900) </td>
      <td> MS Azure AI Engineer Associate (AI-102) </td>
   </tr>
   <tr>
+    <td><img src="https://github.com/Akshaykumarcp/Cloud/blob/main/oracle/OCI%20Generative%20AI%20Professional%202024/OCI2024GAIOCP%20badge.jpg" width=160 height=120></td>
     <td><img src="https://github.com/Akshaykumarcp/Cloud/blob/main/AWS/MLS-C01%20Machine%20Learning%20Specialty/credly.png" width=120 height=120></td>
+    <td><img src="https://github.com/Akshaykumarcp/Cloud/blob/main/microsoft/ai-102/microsoft-certified-azure-ai-engineer-associate.png" width=120 height=120></td>
     <td><img src="https://github.com/Akshaykumarcp/Cloud/blob/main/AWS/cloud%20practitioner/AWS-Certified_Cloud-Practitioner_512x512.bc006f14f986fa4f3ca238b0b62be458ce1fb5ce.png" width=120 height=120></td>
     <td><img src="https://github.com/Akshaykumarcp/Cloud/blob/main/microsoft/ai-900/microsoft-certified-azure-ai-fundamentals.png" width=120 height=120></td>
-    <td><img src="https://github.com/Akshaykumarcp/Cloud/blob/main/microsoft/ai-102/microsoft-certified-azure-ai-engineer-associate.png" width=120 height=120></td>
+    
   </tr>
  </table>
 
