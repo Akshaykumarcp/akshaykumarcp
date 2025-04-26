@@ -10,16 +10,16 @@
 
 #### About me
 - ⚡ [Online portfolio](https://akshaykumarcp.github.io/)
-- 🔭 Work & Fun: Machine Learning Engineer.
+- 🔭 Work & Fun: ML / AI Engineer.
 - 📡 Facinated by Artificial Intelligence technology.
-- 🤓 Explore Generative AI, Machine Learning, Deep Learning, Natural Languange Processing & Cloud | [Abstract](https://github.com/Akshaykumarcp/data-science).
+- 🤓 Explore Generative AI, Machine Learning, Deep Learning, Natural Languange Processing & Cloud.
 - 📫 How to reach me: Email - akshai.148@gmail.com
 
 #### My Social Media Spread
 [![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/akshay-kumar-c-p/)
+[![](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Akshaykumarcp) 
 [![](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@akshai.148) 
 [![](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UC3l8RTE3zBRzUrHbSXpx-qA) 
-[![](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Akshaykumarcp) 
 
 #### Cloud Certification  
 <table>
@@ -43,16 +43,26 @@
 #### Programming language  
 ![](https://img.shields.io/badge/Python-informational?style=flat&logo=python&logoColor=white&color=3776AB)
 
-#### My favourite frameworks   
-![](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=flat&logo=PyTorch&logoColor=white)
+#### LLM
+![](https://shields.io/badge/-OpenAI-93f6ef?logo=openai)
 
-#### My favourite Python libs
+#### Frameworks   
+![](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=flat&logo=PyTorch&logoColor=white)
+![](https://img.shields.io/badge/LangChain-ffffff?logo=langchain&logoColor=black)
+![](https://img.shields.io/badge/langGraph-ffffff?logo=langgraph&logoColor=black)
+
+#### Cloud   
+![](https://img.shields.io/badge/Azure-blue?style=flat&logo=azure&logoColor=white)
+![](https://img.shields.io/badge/Databricks-grey?style=flat&logo=databricks&logoColor=red)
+
+
+#### Python libs
 ![](https://img.shields.io/badge/Pandas-informational?style=flat&logo=pandas&logoColor=white&color=150458)
 ![](https://img.shields.io/badge/NumPy-informational?style=flat&logo=numpy&logoColor=white&color=013243)
 ![](https://img.shields.io/badge/SciPy-informational?style=flat&logo=scipy&logoColor=white&color=8CAAE6)
 ![](https://img.shields.io/badge/ScikitLearn-informational?style=flat&logo=scikit-learn&logoColor=white&color=F7931E)
 
-#### My favourite databases   
+#### Databases   
 ![](https://img.shields.io/badge/Mysql-informational?style=flat&logo=MySQL&logoColor=white&color=4479A1)
 ![](https://img.shields.io/badge/MongoDB-informational?style=flat&logo=MongoDB&logoColor=white&color=47A248)
 
